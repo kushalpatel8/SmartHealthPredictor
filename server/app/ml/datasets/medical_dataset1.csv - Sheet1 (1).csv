@@ -1,0 +1,83 @@
+age,weight,blood_pressure,glucose_level,insulin_level,smoking_habit,symptom_1,symptom_2,symptom_3,disease
+68,72,140/90,190,30,yes,memory_loss,confusion,disorientation,Alzheimer’s
+54,80,135/85,105,20,no,tremors,stiff_muscles,speech_issue,Parkinson’s
+36,65,125/80,180,22,yes,blurred_vision,fatigue,frequent_urination,Diabetes
+29,60,118/76,95,10,no,joint_pain,rash,fever,Lupus
+41,70,130/82,100,18,yes,headache,dizziness,nausea,Migraine
+62,85,150/95,170,40,yes,numbness,muscle_weakness,speech_difficulty,Stroke
+33,68,120/80,110,16,no,restlessness,anxiety,insomnia,General Anxiety
+70,74,145/92,160,28,yes,memory_loss,depression,confusion,Alzheimer’s
+48,82,142/90,150,35,yes,chest_pain,shortness_breath,fatigue,Cardiovascular Disease
+25,55,110/70,92,15,no,joint_pain,skin_rash,hair_loss,Lupus
+59,78,138/89,195,50,yes,blurred_vision,thirst,fatigue,Diabetes
+44,77,132/84,102,21,no,headache,nausea,sensitivity_light,Migraine
+64,83,144/91,108,22,yes,tremors,slowed_movement,balance_issues,Parkinson’s
+38,75,128/80,118,24,no,neck_stiffness,fever,vomiting,Meningitis
+53,79,134/86,120,26,yes,headache,blurred_vision,light_sensitivity,Migraine
+60,81,145/93,185,37,yes,numbness,slurred_speech,paralysis,Stroke
+27,62,118/76,105,18,no,fatigue,joint_pain,weight_loss,Lupus
+35,67,122/78,130,20,no,excessive_thirst,urination,blurred_vision,Diabetes
+66,76,140/88,100,19,yes,tremors,speech_issues,muscle_stiffness,Parkinson’s
+39,69,125/80,115,21,no,headache,sensitivity_sound,vomiting,Migraine
+47,73,132/84,135,23,yes,shortness_breath,chest_tightness,fatigue,Cardiovascular Disease
+58,86,148/96,200,45,yes,dizziness,numbness,loss_consciousness,Stroke
+61,78,137/90,165,36,yes,frequent_urination,blurred_vision,weight_loss,Diabetes
+42,74,126/83,108,19,no,restlessness,anxiety,irritability,General Anxiety
+69,71,141/91,125,25,yes,memory_loss,apathy,forgetfulness,Alzheimer’s
+32,66,121/79,97,12,no,fever,neck_pain,confusion,Meningitis
+55,80,133/85,140,30,yes,thirst,fatigue,blurred_vision,Diabetes
+46,76,129/82,110,17,no,headaches,vision_loss,eye_pain,Migraine
+50,82,143/92,155,34,yes,chest_pain,dizziness,breathing_diff,Cardiovascular Disease
+26,59,115/72,90,10,no,joint_pain,fatigue,swelling,Lupus
+63,84,146/94,172,38,yes,tremors,rigidity,balance_issue,Parkinson’s
+59,87,146/85,165,45,no,tremors,dizziness,eye_pain,Parkinson's
+45,79,135/85,160,33,yes,chest_pain,breath_shortness,dizziness,Cardiovascular Disease
+31,68,122/80,110,19,no,fever,rash,fatigue,Lupus
+56,82,144/92,170,39,yes,tremors,slow_movement,speech_difficulty,Parkinson’s
+37,74,125/78,98,15,no,insomnia,restlessness,irritability,General Anxiety
+68,77,142/90,190,44,yes,vision_blur,excessive_thirst,urination,Diabetes
+59,85,148/95,178,35,yes,chest_tightness,breath_shortness,nausea,Cardiovascular Disease
+40,70,130/82,105,20,no,fatigue,joint_pain,rash,Lupus
+72,76,150/98,165,38,yes,tremors,speech_issue,muscle_rigidity,Parkinson’s
+28,63,118/76,100,17,no,anxiety,rapid_heartbeat,sweating,General Anxiety
+49,78,139/88,140,29,yes,confusion,memory_loss,depression,Alzheimer’s
+33,66,120/80,112,18,no,headache,sensitivity_light,vomiting,Migraine
+53,81,143/91,175,42,yes,numbness,speech_difficulty,arm_weakness,Stroke
+61,80,138/89,185,40,yes,excessive_thirst,fatigue,blurry_vision,Diabetes
+42,75,129/82,115,22,no,chest_pain,dizziness,fatigue,Cardiovascular Disease
+35,72,126/80,102,18,no,tremors,stiff_muscles,trouble_walking,Parkinson’s
+66,83,146/93,188,45,yes,memory_loss,confusion,word_loss,Alzheimer’s
+38,70,127/79,98,16,no,neck_stiffness,fever,vomiting,Meningitis
+57,79,134/86,125,28,yes,speech_difficulty,numbness,drooping_face,Stroke
+43,76,131/83,108,20,no,anxiety,restlessness,insomnia,General Anxiety
+70,75,145/92,165,35,yes,memory_loss,forgetfulness,confusion,Alzheimer’s
+30,60,117/75,95,14,no,fever,rash,fatigue,Lupus
+62,84,147/94,195,48,yes,blurred_vision,excessive_thirst,frequent_urination,Diabetes
+36,73,124/78,99,15,no,neck_pain,fever,sensitivity_light,Meningitis
+48,80,132/84,120,24,yes,fatigue,dizziness,pressure_chest,Cardiovascular Disease
+52,77,133/85,170,36,yes,tremors,slow_movement,speech_difficulty,Parkinson’s
+39,69,123/80,100,17,no,headaches,vision_blur,light_sensitivity,Migraine
+67,82,144/92,185,41,yes,numbness,vision_blur,memory_loss,Stroke
+44,71,128/80,106,21,no,confusion,depression,apathy,Alzheimer’s
+34,65,119/77,103,19,no,neck_stiffness,light_sensitivity,nausea,Meningitis
+55,79,136/87,150,32,yes,chest_pain,fatigue,breath_shortness,Cardiovascular Disease
+41,68,126/79,110,20,no,blurred_vision,fatigue,thirst,Diabetes
+60,80,139/90,175,38,yes,tremors,slow_response,balance_issues,Parkinson’s
+29,62,115/72,98,15,no,fever,rash,joint_pain,Lupus
+65,85,148/95,190,43,yes,memory_loss,disorientation,trouble_speaking,Alzheimer’s
+46,72,131/82,120,26,yes,fatigue,light_sensitivity,vomiting,Migraine
+54,78,140/88,180,40,yes,slurred_speech,paralysis,confusion,Stroke
+37,66,120/78,105,19,no,anxiety,insomnia,palpitations,General Anxiety
+69,74,143/91,170,39,yes,tremors,stiff_muscles,balance_issues,Parkinson’s
+50,77,135/85,115,23,no,chest_pain,dizziness,breath_shortness,Cardiovascular Disease
+43,70,129/81,110,20,no,fever,vomiting,stiff_neck,Meningitis
+58,83,145/93,185,41,yes,speech_difficulty,memory_loss,one_side_weakness,Stroke
+32,64,121/79,99,17,no,rash,joint_pain,fatigue,Lupus
+51,79,137/88,125,29,yes,excessive_thirst,blurred_vision,frequent_urination,Diabetes
+36,68,123/80,105,19,no,headache,light_sensitivity,nausea,Migraine
+70,82,147/94,195,45,yes,memory_loss,confusion,language_difficulty,Alzheimer’s
+47,75,134/86,140,30,yes,chest_tightness,dizziness,fatigue,Cardiovascular Disease
+63,81,146/92,180,40,yes,tremors,slow_movement,depression,Parkinson’s
+39,67,127/79,104,18,no,anxiety,insomnia,fatigue,General Anxiety
+26,61,116/74,96,15,no,fever,rash,fatigue,Lupus
+68,85,149/95,190,44,yes,speech_difficulty,numbness,confusion,Stroke
