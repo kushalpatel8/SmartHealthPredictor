@@ -1,0 +1,38 @@
+# FastAPI
+fastapi
+uvicorn[standard]
+
+# MongoDB
+pymongo
+motor
+
+# Data Processing
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Computer Vision
+opencv-python
+
+# Data Validation
+pydantic
+pydantic-settings
+
+# Authentication & Security
+clerk-backend-api
+
+# File Upload
+python-multipart
+
+# Environment Variables
+python-dotenv
+
+# HTTP Requests
+httpx
+
+# Testing
+pytest
+pytest-asyncio
