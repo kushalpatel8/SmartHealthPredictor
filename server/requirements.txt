@@ -36,3 +36,7 @@ httpx
 # Testing
 pytest
 pytest-asyncio
+
+# Authentication & Security
+clerk-backend-api
+passlib[bcrypt]
