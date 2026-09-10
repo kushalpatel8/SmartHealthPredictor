@@ -52,3 +52,4 @@ async def delete_patient(patient_id: str, db = Depends(get_database), current_us
         raise HTTPException(status_code=404, detail="Patient Not Found")
     return None
     
+    
