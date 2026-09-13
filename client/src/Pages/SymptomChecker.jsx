@@ -175,7 +175,7 @@ const SymptomChecker = () => {
                             <div>
                                 <h4 className="text-sm font-bold text-slate-900 mb-3">Recommendations</h4>
                                 <ul className="space-y-3">
-                                    {result.recommendations.map((rec, i) => (
+                                    {(result.recommendations || []).map((rec, i) => (
                                         <li key={i} className="flex items-start gap-3 text-sm text-slate-700 font-medium">
                                             <div className="mt-1 h-2 w-2 rounded-full bg-primary-500 shrink-0"></div>
                                             {rec}

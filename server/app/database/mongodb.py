@@ -6,7 +6,7 @@ class MongoDB:
     async def insert_one(collection_name: str, document: Dict[str, Any]) -> Any:
         db = get_database()
         result = await db[collection_name].insert_one(document)
-        return result.intrested_id
+        return result.inserted_id
     
     @staticmethod
     async def find_one(collection_name: str, query: Dict[str, Any]) -> Optional[Dict[str, Any]]:

@@ -7,7 +7,7 @@ router = APIRouter()
 @router.get("/dashboard")
 async def get_dashboard(current_user = Depends(get_current_user)):
     try:
-        metrics = await AnalyticsService.get_dashboard_matrics(str(current_user.id))
-        return {"status" : "success", "data" : metrics}
+        metrics = await AnalyticsService.get_dashboard_metrics(str(current_user.id))
+        return {"status": "success", "data": metrics}
     except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+        raise HTTPException(status_code=500, detail=str(e))

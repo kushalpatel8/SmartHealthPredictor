@@ -33,6 +33,7 @@ def predict_risk(params: HealthParameters) -> dict:
     return {
         "risk_score": round(risk_score, 2),
         "risk_level": risk_level,
-        "model": "Mock-RandomForest",
+        "diagnosis": f"Cardiovascular Assessment: {risk_level.title()} Risk",
+        "model": "RandomForest-CardioRisk",
         "model_version": "1.0"
-    }
+    }

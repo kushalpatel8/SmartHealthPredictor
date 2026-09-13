@@ -155,9 +155,9 @@ const ImageAnalysis = () => {
                             </div>
 
                             <div className="flex items-start gap-3 p-4 rounded-xl bg-blue-50 dark:bg-blue-900/20 border border-blue-100 dark:border-blue-800/50 mt-auto">
-                                <CheckCircle2 className="text-blue-500 mt-0.5" size={20} />
+                                <CheckCircle2 className="text-blue-500 mt-0.5 shrink-0" size={20} />
                                 <p className="text-slate-600 dark:text-slate-400 text-sm">
-                                    Analysis complete. The AI model identified patterns with the displayed confidence score.
+                                    {result.findings || "Analysis complete. The AI model identified patterns with the displayed confidence score."}
                                 </p>
                             </div>
                         </div>
